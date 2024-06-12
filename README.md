@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Screenshot_20240612-183641](https://github.com/Elumalai24/TextToSpeechAndSpeechToText/assets/93655628/cd4641eb-de9c-4c58-b147-87773f811671)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
